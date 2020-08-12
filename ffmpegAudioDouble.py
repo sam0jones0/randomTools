@@ -1,6 +1,7 @@
 #! python3
 # ffmpegAudioDouble.py - Increases volume of all .mkv files in CWD by 250% using ffmpeg
-# running in 2 threads 
+# running in 2 threads
+# ffmpeg.exe must be in PATH
 
 import os
 import send2trash
